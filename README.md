@@ -9,6 +9,8 @@ Earlier, People used to detect fraudulents in credit card transactions using bas
 
 Please check out the .ipnb file attached in this repo for more information.
 
+Hope you find it useful.
+
 ## ✒📌NOTE: Dateset is taken from Kaggle <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud"> click on this link </a>
               
 📝Any changes regarding the code in current repo is most welcome. I would like to get some good techniques for better model performance in this project. 
